@@ -1,0 +1,236 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.header-banner {
+    background-image: url('images/banner/banner.png');
+    padding: 216px 230px 120px 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content {
+    text-align: right;
+}
+
+.header-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 24px;
+}
+
+.header-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    height: 64px;
+    width: 160px;
+    font-weight: 600;
+    font-size: 20px;
+    background: #F15B22;
+    border-radius: 5px;
+    border: 0;
+}
+
+/* Header Part End */
+
+.my-failure-section {
+    display: flex;
+    gap: 80px;
+    padding: 130px 300px 0px 200px;
+}
+
+
+.my-failure-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    margin-top: 250px;
+}
+
+.my-failure-description {
+    color: #444343;
+    line-height: 26px;
+    margin-bottom: 16px;
+}
+
+.my-failure-list {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.list-content {
+    color: #444343;
+}
+
+#tick-icon {
+    color: #16D887;
+}
+
+/* My Failure Section End */
+
+.my-plans {
+    text-align: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 130px;
+}
+
+.my-plans-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.my-plans-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.my-team-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.my-team-content{
+    background-color: rgb(255, 232, 201);
+    border-radius: 8px;
+    padding: 40px 25px;
+    box-shadow: 10px 10px 20px #b5b5b5;
+
+}
+
+.plans-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+    margin-top: 35px;
+}
+
+.plans-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.team-photo{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #F15B22;
+    border-radius: 50%;
+}
+
+/* My Plans Section End */
+
+.positive-mindset {
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 130px;
+    background-image: linear-gradient(to right, rgb(254, 99, 51), rgba(255, 255, 255, 0.438)), url('images/watch.png');
+    background-blend-mode: overlay;
+    border-radius: 5px;
+    
+}
+
+.positive-mindset-content{
+    padding: 60px 600px 0px 60px;
+}
+
+.mindset-title {
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+ 
+
+}
+
+.secondary-button{
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    margin-bottom: 60px;
+}
+
+/* Positive Mindset section end */
+
+footer{
+    margin-top: 130px;
+    background: #151414;
+}
+
+.footer-section{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 130px 230px;
+    display: flex;
+    gap: 200px;
+}
+
+.footer-info{
+    width: 800px;
+}
+
+.info-title{
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+
+.info-description{
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    line-height: 26px;
+}
+
+.email{
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.phone{
+    color: #FFFFFF;
+    margin-bottom: 25px;
+}
+
+.footer-icons{
+    margin-right: 15px;
+}
+
+.contact-title{
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+.contact-email{
+    width: 325px;
+    padding: 20px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    background: none;
+    margin-bottom: 10px;
+}
+
